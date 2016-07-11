@@ -9,5 +9,5 @@
 #import "EGViewController.h"
 
 @interface EGHomeController : EGViewController
-
+@property(strong,nonatomic) NSString* test;
 @end
